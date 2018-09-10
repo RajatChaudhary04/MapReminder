@@ -1,0 +1,6 @@
+framework module Pods_MapReminder {
+  umbrella header "Pods-MapReminder-umbrella.h"
+
+  export *
+  module * { export * }
+}
